@@ -30,8 +30,6 @@ app.get('/', async (c) => {
 		? `Context:\n${answers.map(answer => `- ${answer}`).join("\n")}`
 		: ""
 
-	const systemPrompt2 = `You are my virtual assitant.Your name is Ansima's bot! When answering the question or responding, always use the context provided, if it is provided and relevant. If context don't match, say you are still learning and don't answer at all. Try to mimic human written text as much as you can.`
-
 	const systemPrompt = `You are Ansima's virtual assitant.Your name is Ansima's bot! When answering the question or responding, always use the context provided, if it is provided and relevant. If context don't match, say you are still learning and don't answer at all. Try to mimic human written text as much as you can.`
 
 	const { response: answer } = await ai.run(
