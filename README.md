@@ -1,16 +1,15 @@
 # AI Chat Bot
 
+We built a customizable chatbot using Cloudflare AI Workers that responds to custom questions with pre-defined answers, leveraging text vectorisation and AI text generation for natural conversational interaction. 
 
 https://github.com/ElvisAns/ai-chatbot-demo/assets/35831811/40260c82-4589-4cc8-afb1-d1c9b35af43e
 
-
-Thanks to Cloudflare AI workers, We have built a customisable chatbot that can respond to custom questions from a predefined set of answers. 
-
 **Please check the Demo at : https://ai-chatbot-demo.pages.dev**
 
-⚠️ Currently the site has not security, so be responsible, don't abuse
+⚠️ Currently the site has not login/signup, so please be responsible, don't abuse!
 
 ## Technology used
+
 We're using vector embedding to sort of train our AI to respond to users questions with predefined answers, all without having to train the AI in a formal way, which can be difficult and expensive.
 
 On the AI backend side we are using 2 models :
