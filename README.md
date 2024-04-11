@@ -1,8 +1,10 @@
 # AI Chat Bot
 
-Thanks to Cloudflare AI workers, We have built a customisable chatbot that can respond to custom questions from a predefined set of answers. 
 
-![image](https://github.com/ElvisAns/ai-chatbot-demo/assets/35831811/2236b779-12b7-4802-9b92-926215887b7a)
+https://github.com/ElvisAns/ai-chatbot-demo/assets/35831811/40260c82-4589-4cc8-afb1-d1c9b35af43e
+
+
+Thanks to Cloudflare AI workers, We have built a customisable chatbot that can respond to custom questions from a predefined set of answers. 
 
 **Please check the Demo at : https://ai-chatbot-demo.pages.dev**
 
